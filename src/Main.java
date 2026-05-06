@@ -3,7 +3,6 @@ public class Main {
         System.out.println("1번째 실습_chulsoo");//
         System.out.println("1번째 실습_ckchen");//
         System.out.println("1번째 실습_ckchen koo");//
-        System.out.println("3번째 실습_ckchen koo");//
 
     }
 }
